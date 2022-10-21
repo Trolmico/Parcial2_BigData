@@ -2,6 +2,7 @@
 
 
 Parcial #2 de Big Data
+
 Luis Nicolás Arboleda Jiménez
 
 # Flujo de Trabajo
